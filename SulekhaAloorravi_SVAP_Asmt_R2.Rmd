@@ -10,7 +10,7 @@ output:
 #By: Sulekha AloorRavi
 #FileName: SulekhaAloorravi_SVAP_Asmt_R2.Rmd
 #Title: Forecast Stock Returns on a stock for 180 days using Technical Analysis
-#my github: 
+#my github: https://github.com/sulekhaaloorravi/SVAP_Assignments
 
 # 1.Frame
 
